@@ -1,4 +1,3 @@
-
 <h1 align="center">I'm Barkamol</h1>
 <h3 align="center">Uzbek web developer</h3>
 <img src = "https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" style = "height : 350px; ">
@@ -17,10 +16,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/barkamol valiyev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="barkamol valiyev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/barkamol-valiyev-70b992263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/barkamol-valiyev-70b992263" height="30" width="40" /></a>
 <a href="https://fb.com/valeeyev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="valeeyev" height="30" width="40" /></a>
 <a href="https://instagram.com/csed.uz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="csed.uz" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/csed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="csed" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/csed_uz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="csed_uz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
