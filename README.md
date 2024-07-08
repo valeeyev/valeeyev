@@ -1,6 +1,6 @@
 <h1 align="center">I'm Barkamol</h1>
 <h3 align="center">Uzbek web developer</h3>
-<img src = "https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" style = "height : 350px; ">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=valeeyev&label=Profile%20views&color=0e75b6&style=flat" alt="valeeyev" /> </p>
 
